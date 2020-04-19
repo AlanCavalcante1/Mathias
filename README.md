@@ -1,5 +1,5 @@
 # Mathias 
- Jogo criado utilizando PyGame e PPlay
+ Jogo criado utilizando __*PyGame e PPlay*__
  
  Este jogo foi criado em dupla com meu amigo, Rafael Carrilho, no 2 semestre da Universidade Federal Fluminense.
  
